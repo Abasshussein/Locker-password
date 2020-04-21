@@ -5,7 +5,7 @@
 ## Description
 - This is a terminal working project where one us to store his/her account and password,he/she can also create an account and also generate a password.
 ## Setup/Installation Requirements
-* This is a great place
+- 
 * to list setup instructions
 * in a simple
 * easy-to-understand
