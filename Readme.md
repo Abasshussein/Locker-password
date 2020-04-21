@@ -6,7 +6,7 @@
 - This is a terminal working project where one us to store his/her account and password,he/she can also create an account and also generate a password.
 ## Setup/Installation Requirements
 - clone this repository
-
+- have python3.6 on your device
 * in a simple
 * easy-to-understand
 * format
