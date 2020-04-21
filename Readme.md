@@ -13,7 +13,10 @@
 ## Technologies Used
 - Python3.6
 ## BDD
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+- 1- register a new account
+- 2-Display accounts
+- 3-Find accounts
+- 4-Exit the locker
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
