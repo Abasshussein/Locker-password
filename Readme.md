@@ -8,7 +8,7 @@
 - clone this repository
 - have python3.6 on your device
 - Run application in your terminal using ./run.py
-
+- Test application using $ python3.7 user_test.py
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
