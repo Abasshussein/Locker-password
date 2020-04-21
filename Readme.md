@@ -22,4 +22,4 @@
 - Github-Abasshussein
 - Tell +254736623078
 ## License
-- licenced under theMIT licence
+licenced under theMIT licence
